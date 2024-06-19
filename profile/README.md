@@ -1,12 +1,31 @@
 # Radboud University Department of Machine Learning and Neural Computing
 
-<!--
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><a href="https://github.com/MLNCDonders/system_sim_framework"><b>System Simulation Framework</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	
+  </tbody>
+</table>
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h3>Where to find us</h3>
+<p>
+<a href="https://github.com/MLNCDonders" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/</a> 
+</p>
+
