@@ -1,4 +1,4 @@
-## Hi there 👋
+# Radboud University Department of Machine Learning and Neural Computing
 
 <!--
 
